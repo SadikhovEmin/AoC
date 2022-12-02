@@ -12,12 +12,6 @@ for i in f:
 
 points = 0
 
-'''
-0 -> Lost
-3 -> Draw
-6 -> Win
-'''
-
 for i in games:
     if i[0] == "A" and i[1] == "X":
         points += 3
