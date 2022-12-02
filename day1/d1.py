@@ -1,7 +1,7 @@
 import heapq
 
 if __name__ == '__main__':
-    f = open('inputs/1_input.txt')
+    f = open('1.txt')
 
     data = []
     count = 0

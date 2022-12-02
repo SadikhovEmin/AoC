@@ -4,7 +4,7 @@ shapes = {
     "Z": 3
 }
 
-f = open("inputs/2.txt")
+f = open("2.txt")
 
 games = []
 for i in f:
