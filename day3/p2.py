@@ -33,7 +33,6 @@ for i in range(len(contents)):
             if c in chars and chars[c] == j - 1:
                 chars[c] = j
 
-    # Print the element
     for j in chars:
         if chars[j] == 2:
             res.append(j)
